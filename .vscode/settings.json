@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "C:\\Users\\Lara\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "files.associations": {
+        "*.tcc": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp"
+    }
+}
